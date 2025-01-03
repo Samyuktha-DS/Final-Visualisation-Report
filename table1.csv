@@ -1,0 +1,10 @@
+card_brand,card_type,credit_limit,credit_limit,num_cards_issued,year_pin_last_changed
+,,mean,median,sum,median
+Amex,Credit,11436.3184079602,10250.0,608,2013.0
+Discover,Credit,10816.267942583732,9800.0,311,2012.0
+Mastercard,Credit,10971.653543307086,10200.0,953,2012.0
+Mastercard,Debit,18279.711090826106,16218.0,3299,2013.0
+Mastercard,Debit (Prepaid),64.7780678851175,65.0,568,2012.0
+Visa,Credit,11295.561035758323,9900.0,1237,2012.0
+Visa,Debit,19019.621212121212,16773.5,1957,2012.0
+Visa,Debit (Prepaid),63.8,64.0,305,2013.0
